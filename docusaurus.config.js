@@ -15,6 +15,7 @@ const config = {
   favicon: "img/favicon.ico",
   organizationName: "fukupug", // Usually your GitHub org/user name.
   projectName: "fukupug.github.io", // Usually your repo name.
+  deploymentBranch: "deployment",
   trailingSlash: false,
 
   presets: [
